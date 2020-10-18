@@ -92,6 +92,7 @@ Vous pouvez alors utiliser `itemprop` pour choisir une propriété du schéma à
 ```
 
 ### 🏷️ **Item scope**
+
 Dans un scope vous pouvez déclarer d'autres scopes
 
 ```html

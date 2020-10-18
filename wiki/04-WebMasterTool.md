@@ -1,71 +1,56 @@
-# Start
+# WebMaster Tool
 
-*  🔖 **Compiler**
-*  🔖 **Start**
-*  🔖 **Project**
-
-___
-
-## 📑 Compiler
-
-### 🏷️ **[Cordova](https://cordova.apache.org/)**
-
-Apache Cordova ou plus anciennement Apache Callback ou PhoneGap, est un framework open-source développé par la Fondation Apache. Il permet de créer des applications pour différentes plateformes en HTML, CSS et JavaScript.
-
-![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/cordova.png)
+*  🔖 **Console**
+*  🔖 **Monitoring**
+*  🔖 **Trafic**
+*  🔖 **Analytics**
 
 ___
 
-## 📑 [Start](https://www.npmjs.com/package/cordova)
+## 📑 Console
 
-Installer la package de façon globale ou non.
+Google webmaster tool vous offre un service pour indexer votre contenu, surveiller le trafic, le motif de recherche et autre.
 
-```bash
-npm i cordova
-```
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//console.jpg)
 
-Exécuter le CLI pour voir les commandes disponibles.
+### 🏷️ **Propriété**
 
-```bash
-npx cordova
-```
+La première étape est de déclarer la propriété d'un site.
 
-### 🏷️ **[Create](https://cordova.apache.org/docs/en/9.x/guide/cli/index.html)**
+### 🏷️ **Indexation**
 
-La commande create initialise un projet.
+Une fois la propriété activée vous pouvez demander l'indexation de contenu.
 
-```bash
-npx cordova create foo io.foo.app FooApp
-```
-
-Changer le répertoire.
-
-```bash
-cd foo
-```
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//tool-sitemap.png)
 
 ___
 
-## 📑 Project
+## 📑 Monitoring
 
-Un projet a été généré, décrivons le.
+L'outil créera des rapport concernant les problèmes sur les notions de status code incorrecte, d'ergonomie mobile.
 
-### 🏷️ **[config.xml](https://cordova.apache.org/docs/fr/latest/config_ref/)**
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//tool-monitoring.png)
 
-C'est dans ce fichier que les liens vers les icônes et plashscreen se font (@see cordova res), que les préférences sont paramétrés tout comme les autorisations et les différents plugins. Le détail de chaque plateform est référencé dans ce fichier.
+Des solutions seront proposées en cas de problème.
 
-### 🏷️ **www**
+___
 
-Seul les éléments présents dans ce dossier seront déployés sur device, les ressources de développement doivent se trouver à l’extérieur. En cas d'utilisation de webpack vous devez faire correspondre les points d'entré et de sortie.
+## 📑 Trafic
 
-### 🏷️ **index.html**
+Le trafic des utilisateurs réels sera mesuré.
 
-Situé dans le dossier `www` il est le point d'entré d'affichage du programme dans la Web View. Vous remarquez un lien JavaScript vers un fichier cordova.js qui n'est pas présent: cela est normal et il est requis pour les fonctionnalités qui concernent le device.
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//trafic.png)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Créer un projet et adaptez votre stack technique ou installez cordova dans un projet existant que vous configurez en rapport à ces contraintes.
+Déclarez la propriété de votre projet puis générer et fournissez un sitemap. En fonction des rapport, revenez su les notions étudiées pour améliorer l'indexation du contenu et les problèmes soulevés par l'outil.
 
 ___
+
+## 📑 Analytics
+
+Pour obtenir une analyse plus fine du trafic, google Analytics est l'outil approprié mais vous touchez à vos limites de développeurs qui monitorent et optimise le contenu.
+
+🔗 [Analytics](https://analytics.google.com/analytics/web/)

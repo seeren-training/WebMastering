@@ -11,7 +11,7 @@
 *  🔖 **Le Responsive**
 *  🔖 **Mots-clés**
 
-![image](./resources/seo.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/seo.jpg)
 
 > Les différentes section doivent s'appliquer sur un projet de votre production que je vous invite à déterminer
 
@@ -21,7 +21,7 @@ ___
 
 Certains développeurs Web ont le sentiment commun que si une page Web semble correcte dans les navigateurs, peu importe si elle ne se valide pas. Ils décrivent la validation comme un objectif idéal, mais pas comme un problème noir et blanc.
 
-![image](./resources/validation.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/validation.jpg)
 
 ### 🏷️ **Pourquoi**
 
@@ -33,7 +33,7 @@ Il y a deux raisons très puissantes pour valider votre code HTML lors de sa cr�
 
 ### 🏷️ **Validateur**
 
-Pour valider son code il y a de nombreux outils, à installer ou en ligne. ESlint ou le linter d'un IDE peu faire le job, mais leur configuration peut se personnaliser et s'éloigner du standards.
+Pour valider son code il y a de nombreux outils, à installer ou en ligne. ESlint ou le linter d'un IDE peut faire le job, mais leur configuration peut se personnaliser et s'éloigner du standards.
 
 Le W3C possède un validateur en ligne.
 
@@ -51,7 +51,7 @@ ___
 
 Chaque balise doit s'utiliser dans le contexte qui lui correspond en fonction de sa documentation.
 
-![image](./resources/balise.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/balise.jpg)
 
 Par exemple le document dot posséder un `h1` et un paragraphe doit lui succéder. La balise `main` doit être unique et les balises `header` et `footer` peuvent hiérarchiser chaque bloc. La balise `nav` regroupe les navigations etc.
 
@@ -71,7 +71,7 @@ ___
 
 Les micro data permettent au robots d'indexation de qualifier votre contenu sur un schéma précisé.
 
-![image](./resources/micro-data.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/micro-data.jpg)
 
 ### 🏷️ **Item Type**
 
@@ -117,7 +117,7 @@ ___
 
 Les url devraient pointer sur des identifiants indirectes et devraient masquer l'extension des fichiers en utilisant la réécriture d'URL.
 
-![image](./resources/url.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/url.jpg)
 
  Pour ce faire vous avoir la possibilité de mettre en place des directives à votre serveur apache.
 
@@ -199,11 +199,11 @@ Votre page ne doit pas peser plus d'1 mo, toutes ressources confondues. Pour ce 
 
 Programmatiquement, si vous faites des requêtes vers une api en utilisant un langage server c'est le temps de réponse de votre page qui posera problème. Une politique de mise en cache doit être envisagée.
 
-![image](./resources/cache.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/cache.jpg)
 
 En cas de galerie, des scripts de lazy loader d'images doivent être utilisés.
 
-![image](./resources/lazy-load.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/lazy-load.jpg)
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 Un fichier `robots.txt` indique aux robots d'exploration des moteurs de recherche les pages ou les fichiers qu'ils peuvent ou ne peuvent pas demander à votre site. Son objectif principal est d'éviter de surcharger votre site de demandes. Il ne sert pas à empêcher qu'une page Web figure dans les résultats de recherche Google.
 
-![image](./resources/robots.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/robots.jpg)
 
 Le fichier doit se trouver à la racine du répertoire public. Vous pouvez spécifier le nom d'un robot d'indexation puis une autorisation ou une interdiction d'indexation de contenu. Il est possible d'indiquer l'adresse de la carte du site.
 
@@ -274,7 +274,7 @@ ___
 
 ## 📑 Sitemap
 
-![image](./resources/sitemap.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/sitemap.jpg)
 
 Il s'agit d'un plan de site (« sitemap ») compréhensible par les robots d'indexation, rédigé sous forme d'un fichier XML ou texte qui répertorie les URL d'un site permettant ainsi d'inclure des informations complémentaires sur chaque adresse, comme sa date de dernière modification, la fréquence de mise à jour et son importance par rapport aux autres adresses du site. 
 
@@ -320,7 +320,7 @@ ___
 
 Ne pas avoir plusieurs version d'un site pour moniteurs et smartphone est une bonne option évitant les redirection et favorisant l'indexation d'URL.
 
-![image](./resources/responsive.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/responsive.jpg)
 
 Pour rendre responsive votre site vous connaissez la procédure: l'utilisation d'un framework CSS.
 
@@ -338,7 +338,7 @@ Le choix des mots clés est déterminant pour la qualité d'un résultat de rech
 
 🔗 [Google Trends](https://trends.google.fr/trends/?geo=FR)
 
-![image](./resources/trend.png)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/trend.png)
 
 ___
 

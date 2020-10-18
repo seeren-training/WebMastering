@@ -11,7 +11,7 @@ ___
 
 Google webmaster tool vous offre un service pour indexer votre contenu, surveiller le trafic, le motif de recherche et autre.
 
-![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//console.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/console.jpg)
 
 ### 🏷️ **Propriété**
 
@@ -21,7 +21,7 @@ La première étape est de déclarer la propriété d'un site.
 
 Une fois la propriété activée vous pouvez demander l'indexation de contenu.
 
-![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//tool-sitemap.png)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/tool-sitemap.png)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 L'outil créera des rapport concernant les problèmes sur les notions de status code incorrecte, d'ergonomie mobile.
 
-![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//tool-monitoring.png)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/tool-monitoring.png)
 
 Des solutions seront proposées en cas de problème.
 
@@ -39,7 +39,7 @@ ___
 
 Le trafic des utilisateurs réels sera mesuré.
 
-![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources//trafic.png)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/trafic.png)
 
 ___
 

@@ -4,11 +4,9 @@
 
 21 heures
 
-___
+## Public concerné
 
-## Prérequis
-
-Avoir participé au module HTML
+Développeurs Web, chefs de projets Web, infographistes Web.
 
 ___
 

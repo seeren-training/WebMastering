@@ -37,7 +37,7 @@ Pour valider son code il y a de nombreux outils, à installer ou en ligne. ESlin
 
 Le W3C possède un validateur en ligne.
 
-🔗 [Validateur](https://validator.w3.org/)
+[Validateur](https://validator.w3.org/)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 Chaque balise doit s'utiliser dans le contexte qui lui correspond en fonction de sa documentation.
 
-![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/balise.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/WebMastering/master/wiki/resources/balise.png)
 
 Par exemple le document dot posséder un `h1` et un paragraphe doit lui succéder. La balise `main` doit être unique et les balises `header` et `footer` peuvent hiérarchiser chaque bloc. La balise `nav` regroupe les navigations etc.
 
@@ -75,7 +75,9 @@ Les micro data permettent au robots d'indexation de qualifier votre contenu sur 
 
 ### 🏷️ **Item Type**
 
-La première étape est de relier à conteneur d'information à un schéma disponible sur [https://schema.org/](https://schema.org/). Il faut procéder par une recherche sur pour trouver un type qui correspond au contenu. L'attribut itemscope et itemtype qualifient le type de schéma pour le scope à l'intérieur du conteneur.
+La première étape est de relier à conteneur d'information à un schéma disponible sur https://schema.org/. Il faut procéder par une recherche sur pour trouver un type qui correspond au contenu. L'attribut itemscope et itemtype qualifient le type de schéma pour le scope à l'intérieur du conteneur.
+
+[Schema.org/](https://schema.org/)
 
 ```html
 <div itemscope itemtype="http://schema.org/Movie"></div>
@@ -255,7 +257,7 @@ Allow: /répertoire2/sous-répertoire1/
 Sitemap: http://www.example.com/sitemap.xml
 ```
 
-🔗 [Règles d'indexation](https://support.google.com/webmasters/answer/6062596?hl=fr)
+[Règles d'indexation](https://support.google.com/webmasters/answer/6062596?hl=fr)
 
 ### 🏷️ **No index**
 
@@ -365,6 +367,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Utilisez vos mots clés
-
-___
+Utilisez vos mots clés.

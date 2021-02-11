@@ -53,4 +53,4 @@ ___
 
 Pour obtenir une analyse plus fine du trafic, google Analytics est l'outil approprié mais vous touchez à vos limites de développeurs qui monitorent et optimise le contenu.
 
-🔗 [Analytics](https://analytics.google.com/analytics/web/)
+[Analytics](https://analytics.google.com/analytics/web/)

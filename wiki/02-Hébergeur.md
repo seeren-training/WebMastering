@@ -52,7 +52,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Exporter votre base de données dans un fichier de migration au format sql
+Exporter votre base de données dans un fichier de migration au format sql.
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Importez votre base de données
+Importez votre base de données.
 
 ___
 
@@ -110,6 +110,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Je vous invite à apprendre dans un premier temps les bases de git avec comme objectif de relier votre code source à un dépôt puis de l'héberger. Partant?
-
-___
+Je vous invite à apprendre dans un premier temps les bases de git avec comme objectif de relier votre code source à un dépôt puis de l'héberger.

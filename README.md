@@ -1,4 +1,4 @@
-# WebMastering
+# WebMastering - Gérer et de maintenir un site internet
 
 ## Durée
 
